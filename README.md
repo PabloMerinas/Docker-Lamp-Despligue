@@ -5,7 +5,7 @@
 Para comenzar con esta configuración, asumimos que ya has completado los pasos para desplegar el servidor web Apache proporcionados por tu profesor. Puedes encontrar instrucciones detalladas en el archivo `readme.md` del repositorio [docker-lamp](https://github.com/antonio-gabriel-gonzalez-casado/docker-lamp/).
 
 ## Estructura del proyecto
-
+```
 docker-map
 ├── .gitignore
 ├── LICENSE
@@ -46,7 +46,7 @@ mysql
 ├── dump
 │   └── myDb.sql
 └── conf
-
+```
 
 ## PARTE 1: Configuración de Virtual Host
 
